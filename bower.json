@@ -23,7 +23,7 @@
     "_config.yml",
     "CNAME",
     "composer.json",
-    "CONTRIBUTING.md",
+    ".github",
     "docs",
     "js/tests",
     "test-infra"
